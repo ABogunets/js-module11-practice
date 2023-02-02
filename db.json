@@ -1,0 +1,419 @@
+{
+  "books": [
+    {
+      "id": 3,
+      "title": "Пожиратель призраков",
+      "author": "Говард Лавкрафт",
+      "genres": [
+        "ужасы",
+        "мистика"
+      ],
+      "rating": 7.94
+    },
+    {
+      "id": 4,
+      "title": "Разоблаченный проходимец",
+      "author": "Франц Кафка",
+      "genres": [
+        "классика"
+      ],
+      "rating": 6.62
+    },
+    {
+      "id": 5,
+      "title": "Два солнца",
+      "author": "Леонид Кудрявцев",
+      "genres": [
+        "фантастика"
+      ],
+      "rating": 6.36
+    },
+    {
+      "id": 6,
+      "title": "Сон смешного человека",
+      "author": "Федор Достоевский",
+      "genres": [
+        "классика"
+      ],
+      "rating": 7.75
+    },
+    {
+      "title": "Тестовая книга",
+      "author": "Я",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 7
+    },
+    {
+      "title": "Тестовая книга",
+      "author": "Я",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 8
+    },
+    {
+      "title": "Большая тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 11
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 12
+    },
+    {
+      "title": "Большая новая тестовая книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 13
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Манго",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 4,
+      "id": 17
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 1,
+      "id": 18
+    },
+    {
+      "title": "Большая новая книга по NODEJS",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 19
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 20
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 21
+    },
+    {
+      "title": "Test book",
+      "author": "Me",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 22
+    },
+    {
+      "title": "Big test book",
+      "author": "Me",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 28
+    },
+    {
+      "title": "Big new test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 31
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 32
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 33
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 34
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 35
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 36
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 37
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 38
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 39
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 40
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 41
+    },
+    {
+      "title": "Test book on HTML",
+      "author": "Me",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 42
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 43
+    },
+    {
+      "title": "Test book on HTML",
+      "author": "Me",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 44
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 45
+    },
+    {
+      "title": "Test book on HTML",
+      "author": "Me",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 46
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 47
+    },
+    {
+      "title": "Test book on HTML",
+      "author": "Me",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 48
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 49
+    },
+    {
+      "title": "Test book on HTML",
+      "author": "Me",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 50
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 51
+    },
+    {
+      "title": "Test book on HTML",
+      "author": "Me",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 52
+    },
+    {
+      "title": "",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 20,
+      "id": 53
+    },
+    {
+      "title": "Big new test book on NODEJS",
+      "author": "Me",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 54
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 55
+    },
+    {
+      "title": "Test book on HTML",
+      "author": "Me",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 56
+    },
+    {
+      "title": "Test book on HTML",
+      "author": "Me",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 57
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 58
+    },
+    {
+      "title": "Test book on CSS",
+      "author": "Me",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 59
+    },
+    {
+      "title": "Test book on HTML",
+      "author": "Me",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 60
+    }
+  ]
+}
